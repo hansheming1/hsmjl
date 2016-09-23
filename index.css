@@ -88,10 +88,10 @@ html{
     margin: 0 auto;
     left: 0;
     right: 0;
-    bottom: .5rem;
+    bottom: .1rem;
     background: url("img/color46.png")no-repeat;
     background-size: 50% 50%;
-    -webkit-transform:fadeInDown 1.5s infinite ease-in-out;
+    -webkit-animation:fadeInDown 1.5s infinite ease-in-out;
     animation: fadeInDown 1.5s infinite ease-in-out;
     z-index: 100;
 }
@@ -1141,7 +1141,7 @@ html{
     color: #FFFFFF;
     font-weight: 300;
     position: absolute;
-    left: 2.38rem;
+    left: 2.28rem;
     top: 3rem;
     z-index: 0;
 }
@@ -1327,7 +1327,7 @@ html{
     color: #FFFFFF;
     font-weight: 300;
     position: absolute;
-    left: 2.38rem;
+    left: 2.65rem;
     top: 3rem;
     z-index: 0;
 }
